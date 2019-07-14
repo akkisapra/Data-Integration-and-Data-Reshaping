@@ -1,0 +1,11 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+"10-GSR-B-mjp-1","","Overland","Melbourne","2","000000","FFFFFF"
+"10-GSR-C-mjp-1","","Overland","Adelaide","2","000000","FFFFFF"
+"10-GSR-E-mjp-1","","Overland","Melbourne","2","000000","FFFFFF"
+"10-GSR-F-mjp-1","","Overland","Adelaide","2","000000","FFFFFF"
+"10-GSR-G-mjp-1","","Overland","Melbourne - Adelaide","2","000000","FFFFFF"
+"10-GSR-H-mjp-1","","Overland","Melbourne - Adelaide","2","000000","FFFFFF"
+"10-GSR-I-mjp-1","","Overland","Melbourne - Adelaide","2","000000","FFFFFF"
+"10-GSR-J-mjp-1","","Overland","Melbourne - Adelaide","2","000000","FFFFFF"
+"10-GSR-K-mjp-1","","Overland","Melbourne - Adelaide","2","000000","FFFFFF"
+"10-GSR-L-mjp-1","","Overland","Melbourne - Adelaide","2","000000","FFFFFF"

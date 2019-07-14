@@ -1,0 +1,11 @@
+﻿stop_id,stop_name,stop_lat,stop_lon
+"20043","Southern Cross Railway Station (Melbourne City)","-37.8183342913422","144.952524867532"
+"20288","Ararat Railway Station (Ararat)","-37.2822048500311","142.936913700811"
+"20335","North Shore Railway Station (North Shore)","-38.0983771352818","144.365321419105"
+"20600","Adelaide Railway Station (Adelaide City (SA))","-34.938055491184","138.579718564284"
+"20609","Murray Bridge Railway Station (Murray Bridge (SA))","-35.1169413461432","139.275285187937"
+"20614","Bordertown Railway Station (Bordertown (SA))","-36.3086071253926","140.77388532785"
+"20616","Nhill Railway Station (Nhill)","-36.3322222496739","141.653889872054"
+"20617","Dimboola Railway Station (Dimboola)","-36.4541800309344","142.032464368797"
+"20618","Horsham Railway Station (Horsham)","-36.7075014214781","142.200555463609"
+"45918","Stawell Railway Station (Stawell)","-37.0592402739207","142.773538225038"
